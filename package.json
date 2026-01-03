@@ -1,0 +1,17 @@
+{
+    "name": "exodus-jsdom-html-encoding-sniffe",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "build": "tsc -p tsconfig.json"
+    },
+    "dependencies": {
+        "@types/html-encoding-sniffer": "^3.0.2",
+        "html-encoding-sniffer": "^6.0.0"
+    },
+    "devDependencies": {
+        "ts-node": "10.9.2",
+        "typescript": "5.9.3"
+    }
+}
