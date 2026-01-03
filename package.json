@@ -2,6 +2,7 @@
     "name": "exodus-jsdom-html-encoding-sniffe",
     "version": "1.0.0",
     "license": "MIT",
+    "type": "module",
     "private": true,
     "scripts": {
         "build": "tsc -p tsconfig.json"

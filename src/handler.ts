@@ -1,4 +1,4 @@
-import * as htmlEncodingSniffer from "html-encoding-sniffer";
+import htmlEncodingSniffer from "html-encoding-sniffer";
 
 const html = Buffer.from(`<!doctype html>`);
 
